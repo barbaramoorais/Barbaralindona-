@@ -1,7 +1,91 @@
 .titulo{
   position: absolute;
-  width: 485px;
-  height: 29px;
+width: 485px;
+height: 65px;
+left: 124px;
+top: 73px;
+
+font-family: 'Hepta Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+.tit1{
+  position: absolute;
+width: 276px;
+height: 26px;
+left: 124px;
+top: 196px;
+
+font-family: 'Hepta Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+.tit2{
+  position: absolute;
+  width: 205px;
+  height: 40px;
+  left: 124px;
+  top: 391px;
+
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 0.2em;
+
+  color: #000000;
+
+
+}
+.tit3{
+  position: absolute;
+width: 313px;
+height: 40px;
+left: 125px;
+top: 727px;
+
+font-family: 'Hepta Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.2em;
+
+color: #000000;
+
+}
+.p1{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 665px;
+  height: 145px;
+  left: 120px;
+  top: 222px;
+
   font-family: 'Hepta Slab';
   font-style: normal;
   font-weight: 400;
@@ -10,22 +94,43 @@
   display: flex;
   align-items: flex-end;
   letter-spacing: 0.2em;
+
   color: #000000;
-  border: 1px solid #FFFFFF;
 }
-.tit1{
+.p2{
   position: absolute;
-  width: 177px;
-  height: 26px;
+width: 692px;
+height: 210px;
+left: 107px;
+top: 474px;
 
-  font-family: 'Hepta Slab';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 20px;
-  display: flex;
-  align-items: flex-end;
-  letter-spacing: 0.2em;
+font-family: 'Hepta Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.2em;
 
-  color: #000000;
-  }
+color: #000000;
+}
+.p3 {
+  position: absolute;
+width: 312px;
+height: 90px;
+left: 112px;
+top: 810px;
+
+font-family: 'Hepta Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.2em;
+
+color: #000000;
+
+}
