@@ -1,3 +1,35 @@
+
+header{
+  background: #67BE94;;
+}
+.foto1{
+position: absolute;
+width: 179px;
+height: 190px;
+left: 101px;
+top: 6px;
+
+}
+.item1{
+  position: absolute;
+width: 154px;
+height: 50px;
+left: 537px;
+top: 134px;
+
+font-family: 'Hepta Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
 .retangulo{
 position: absolute;
 width: 283px;
@@ -9,21 +41,23 @@ background: rgba(86, 182, 136, 0.9);
 }
 .titulo{
   position: absolute;
-width: 485px;
-height: 65px;
-left: 124px;
-top: 73px;
-
-font-family: 'Hepta Slab';
-font-style: normal;
-font-weight: 400;
-font-size: 40px;
-line-height: 50px;
-display: flex;
-align-items: flex-end;
-letter-spacing: 0.2em;
-
-color: #000000;
+  width: 485px;
+  height: 65px;
+  left: 579px;
+  top: 6px;
+  
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 0.2em;
+  
+  color: #000000;
+  
+  border: 1px solid #FFFFFF;
 }
 .tit1{
   position: absolute;
@@ -141,14 +175,5 @@ align-items: flex-end;
 letter-spacing: 0.2em;
 
 color: #000000;
-
-}
-
-#img1{
-  position: absolute;
-width: 331px;
-height: 317px;
-left: 991px;
-top: 112px;
 
 }
